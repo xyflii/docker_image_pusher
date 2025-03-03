@@ -5,3 +5,5 @@ linuxserver/jackett
 diygod/rsshub
 browserless/chrome
 redis:alpine
+ghcr.io/zitadel/zitadel:latest
+postgres:16-alpine
