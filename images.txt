@@ -7,4 +7,4 @@ browserless/chrome
 redis:alpine
 ghcr.io/zitadel/zitadel:latest
 postgres:16-alpine
-airbyte/bootloader:1.8.1
+nodered/node-red-docker
