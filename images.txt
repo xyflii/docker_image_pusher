@@ -8,3 +8,4 @@ redis:alpine
 postgres:16-alpine
 nodered/node-red
 n8nio/n8n
+openlistteam/openlist
