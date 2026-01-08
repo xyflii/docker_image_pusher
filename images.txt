@@ -8,3 +8,4 @@ redis:alpine
 postgres:16-alpine
 openlistteam/openlist
 deluan/navidrome
+syncthing/syncthing
