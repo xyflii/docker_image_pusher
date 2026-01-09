@@ -9,3 +9,4 @@ postgres:16-alpine
 openlistteam/openlist
 deluan/navidrome
 syncthing/syncthing
+mzz2017/v2raya
